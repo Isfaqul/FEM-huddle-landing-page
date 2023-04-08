@@ -125,7 +125,7 @@ footer a {
   text-decoration: none;
   color: var(--white);
   background-color: transparent;
-  border: 1.5px solid var(--white);
+  border: 1px solid var(--white);
 }
 
 footer a .social-icons {
@@ -149,7 +149,7 @@ footer a:active {
   border-color: hsl(257, 52%, 36%);
 }
 
-@media (min-width: 840px) {
+@media (min-width: 924px) {
   body {
     display: grid;
     background: var(--bg-desktop) no-repeat;
